@@ -1,5 +1,5 @@
 hi
-hello this is from master branch
+hello this is from maste branch
 
 # made changes in feature-r branch
 
