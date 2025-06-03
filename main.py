@@ -1,4 +1,4 @@
-def add_task(task):
-    print(f'Task added: {task}')
+def delete_task(task):
+    print(f'Task deleted: {task}')
 
-add_task('Learn Git')
+delete_task('Learn Git')
