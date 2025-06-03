@@ -1,4 +1,4 @@
-def add_task(task):
-    print(f'Task added: {task}')
+def add_tasks(task):
+    print(f'Task added: {tasks}')
 
-add_task('Learn Git')
+add_tasks('Learn Git')
